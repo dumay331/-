@@ -1,0 +1,5 @@
+{
+  "name": "灵感问卷 (InspiSurvey)",
+  "description": "一个由 AI 驱动的智能调研问卷生成工具，只需输入调研目的、对象和题目数量，即可快速生成高质量的专业问卷。",
+  "requestFramePermissions": []
+}
